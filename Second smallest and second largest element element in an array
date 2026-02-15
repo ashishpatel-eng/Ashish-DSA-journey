@@ -1,6 +1,6 @@
 //Find Second Smallest and Second Largest Element in an array
 
-⭐ APPROACH  → Optimal (Single Pass)
+// APPROACH  → Optimal (Single Pass)
 #include<bits/stdc++.h>
 using namespace std;
 int secondSmallest(int arr[],int n)
